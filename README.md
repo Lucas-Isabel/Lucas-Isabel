@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Mundo Tecnológico!🚀
 
-Olá, explorador(a) tecnológico(a)! Sou apaixonado por desvendar os mistérios do universo da tecnologia, e meu nome é lucas Isabel Ferreira Da Silva. Atualmente, estou imerso na fascinante jornada de conhecimento na **FATEC OSASCO**, aprimorando minhas habilidades em programação com foco em linguagens como Python, Java, TypeScript e C#. 
+Olá, explorador(a) tecnológico(a)! Sou apaixonado por desvendar os mistérios do universo da tecnologia, e meu nome é lucas Isabel Ferreira Da Silva. Atualmente, estou imerso na fascinante jornada de conhecimento na **FATEC OSASCO**, aprimorando minhas habilidades em programação com foco em linguagens como GO, C# E Typescript. 
 
 **Vamos Codar! 💻** Minha expertise abrange diversas áreas, desde Data Science e Machine Learning até o desenvolvimento de aplicações web locais, aplicações desktop, middlewares, software específico para hardware, CLI'S. Se existe um desafio, estou pronto para enfrentá-lo com inovação e criatividade.
 
