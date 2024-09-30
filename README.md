@@ -4,7 +4,7 @@ Olá! Meu nome é **Lucas Isabel Ferreira Da Silva**, e sou um profissional dedi
 
 Minha experiência abrange desde aplicações **web**, **desktop**, **middlewares**, **firmwares**, **CLIs** até o desenvolvimento em **Data Science** e **Machine Learning**. Estou sempre pronto para enfrentar novos desafios com inovação e criatividade.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbyte&layout=donut&show_icons=true&theme=trsparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-isabel&layout=donut&show_icons=true&theme=trsparent)
 
 # Destaques da Minha Jornada
 Desenvolvi soluções FullStack com **GO** e **TypeScript**, atendendo às demandas dos clientes dentro dos prazos estabelecidos. Esta eficiência evitou a devolução de equipamentos e permitiu que a matriz focasse em soluções de escopo geral da aplicação principal.
@@ -29,4 +29,4 @@ Implementei a utilização de diversos arquivos padrões do mercado por meio de 
 - Conhecimento em **JAVA, PHP, C++** e **Firebird**, permitindo um atendimento mais ágil e eficiente
 - Criação e aplicação de treinamentos para autorizadas, redes e clientes finais
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasbyte&repo=clipse-on-pc)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-isabel&repo=clipse-on-pc)
