@@ -1,6 +1,3 @@
-Para melhorar o README, podemos adicionar seções adicionais, melhorar a formatação e adicionar links úteis. Aqui está uma versão melhorada:
-
-```markdown
 # Desenvolvedor Fullstack
 
 Olá! Meu nome é **Lucas Isabel Ferreira Da Silva**, e sou um profissional dedicado à tecnologia, com vasta experiência em diversas áreas. Minha jornada profissional inclui o desenvolvimento de soluções em **web**, **desktop**, **middlewares**, **firmwares**, **CLIs**, além de projetos em **Data Science** e **Machine Learning**. Estou sempre pronto para novos desafios tecnológicos.
@@ -37,8 +34,5 @@ Olá! Meu nome é **Lucas Isabel Ferreira Da Silva**, e sou um profissional dedi
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/lucas-isabel)
+- [LinkedIn](https://www.linkedin.com/in/lucas-isabel-ferreira/)
 - [GitHub](https://github.com/Lucas-Isabel)
-```
-
-Essa estrutura melhora a legibilidade e apresenta as informações de uma forma mais organizada e atrativa.
