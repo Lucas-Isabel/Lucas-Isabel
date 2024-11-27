@@ -29,4 +29,4 @@ Implementei a utilização de diversos arquivos padrões do mercado por meio de 
 - Conhecimento em **JAVA, PHP, C++** e **Firebird**, permitindo um atendimento mais ágil e eficiente
 - Criação e aplicação de treinamentos para autorizadas, redes e clientes finais
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-isabel&repo=clipse-on-pc)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-isabel&repo=GBS-MAUI-BLAZOR)
