@@ -1,14 +1,16 @@
-# Desenvolvedor Fullstack
+# Desenvolvedor Back-End e Desktop [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />](https://www.linkedin.com/in/lucas-isabel-ferreira/)
 
-Olá! Meu nome é **Lucas Isabel Ferreira Da Silva**, e sou um profissional dedicado à tecnologia, com vasta experiência em diversas áreas. Minha jornada profissional inclui o desenvolvimento de soluções em **web**, **desktop**, **middlewares**, **firmwares**, **CLIs**, além de projetos em **Data Science** e **Machine Learning**. Estou sempre pronto para novos desafios tecnológicos.
+Olá! Meu nome é **Lucas Isabel Ferreira Da Silva**, e sou apaixonado por tecnologia, com forte atuação no desenvolvimento de aplicações **back-end** e **desktop**. Tenho experiência sólida com **C#**, criando soluções modernas utilizando **.NET MAUI**, **Blazor**, **WPF** e **WinForms**. No back-end, atuo com **Entity Framework**, **REST APIs**, **JWT**, **gRPC**, **GraphQL** e **event streaming**, sempre buscando performance, escalabilidade e boas práticas de arquitetura.
 
 ### Destaques da Minha Jornada
 <table>
   <tr>
     <td>
-
-- Desenvolvi soluções FullStack com `GO` e `TypeScript`, incluindo uma aplicação para envio setorizado de produtos a balanças comerciais **SYSTEL GLOBAL**, utilizando processamento paralelo para gerenciar múltiplos equipamentos simultaneamente e garantir agilidade nas entregas, evitando devoluções e facilitando as vendas. 
-
+<ul>
+  <li>Atuo no desenvolvimento de uma aplicação desktop em <code>WPF</code> integrada a uma <code>API REST ASP.NET MVC</code> de escala global, voltada para o ambiente de manutenção de uma <strong>empresa global de terminais e pinpads de pagamento</strong>. </li>
+<!--   A solução é aplicada em diversas estações de retrabalho ao redor do mundo, otimizando processos operacionais, reduzindo custos e eliminando retrabalhos por meio da padronização de fluxos técnicos. -->
+    <li>Desenvolvi soluções FullStack com <code>GO</code> e <code>TypeScript</code>, incluindo uma aplicação para envio setorizado de produtos a balanças comerciais <strong>SYSTEL GLOBAL</strong>, utilizando processamento paralelo para gerenciar múltiplos equipamentos simultaneamente e garantir agilidade nas entregas, evitando devoluções e facilitando as vendas.</li>
+  </ul>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-isabel&layout=donut&show_icons=true&theme=transparent" alt="Top Langs" style="width: 200vw">
@@ -45,7 +47,4 @@ Olá! Meu nome é **Lucas Isabel Ferreira Da Silva**, e sou um profissional dedi
 
 ## Projetos em Destaque
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-isabel&repo=GBS-MAUI-BLAZOR)](https://github.com/Lucas-Isabel/GBS-MAUI-BLAZOR)
-
-## Contato
-### <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" /> [Lucas Isabel](https://www.linkedin.com/in/lucas-isabel-ferreira/)
 
