@@ -17,34 +17,36 @@ Olá! Meu nome é **Lucas Isabel Ferreira Da Silva**, e sou apaixonado por tecno
     </td>
     
   </tr>
-</table>
+  <tr>
+    <td colspan=2>
 
----
-
-<h3 align="center">Principais Habilidades </h3>
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original-wordmark.svg" title="GO" alt="GO" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Js" alt="React Js" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="microsoftsqlserver" alt="microsoftsqlserver" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original-wordmark.svg" title="GO" alt="GO" width="40" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Js" alt="React Js" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="microsoftsqlserver" alt="microsoftsqlserver" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="60" height="60"/>
 </div>
 
----
+   
+  </tr>
+</table>
+
 
 
 ### Habilidades Secundárias
 
-- Manutenção de equipamentos e soldagem eletrônica
-- Análise de qualidade de software e compatibilidade com bancos de dados
-- Criação de **middleware**, **CLIs** e **ambientes web** integrados
+- Possuo também experiência em `Java`, `PHP`, `C++` e `Firebird`
+- Sustentação de software e testes de integração
+- Criação de **middlewares**, **cli's** e **ambientes web** integrados
 - Suporte N3 remoto e presencial a clientes, revendedores e autorizadas
-- Conhecimento em **JAVA, PHP, C++** e **Firebird**, permitindo um atendimento mais ágil e eficiente
 - Criação e aplicação de treinamentos para autorizadas, redes e clientes finais
+- Manutenção de equipamentos e soldagem eletrônica
 
 ## Projetos em Destaque
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-isabel&repo=GBS-MAUI-BLAZOR)](https://github.com/Lucas-Isabel/GBS-MAUI-BLAZOR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-isabel&repo=Titan)](https://github.com/Lucas-Isabel/Titan)
 
